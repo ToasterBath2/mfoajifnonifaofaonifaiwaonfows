@@ -1,0 +1,1651 @@
+{
+  "triumph:stage2/biomealyzer": {
+    "criteria": {
+      "completedParent": "2021-02-01 12:08:48 -0500"
+    },
+    "done": false
+  },
+  "thebetweenlands:survivalist/root": {
+    "criteria": {
+      "has_dank_world": "2021-01-26 12:53:09 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:adventurer/idolised": {
+    "criteria": {
+      "ruin": "2021-01-26 13:02:12 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/totemic": {
+    "criteria": {
+      "completedParent": "2021-01-19 21:09:44 -0500",
+      "hasRock": "2021-01-20 15:23:18 -0500",
+      "hasRock2": "2021-01-20 15:21:29 -0500",
+      "hasRock3": "2021-01-20 15:25:20 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/root": {
+    "criteria": {
+      "completedStage0": "2021-01-23 21:16:36 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/bucket": {
+    "criteria": {
+      "hasRock": "2021-01-29 22:45:44 -0500",
+      "completedParent": "2021-01-29 22:27:45 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "pick": "2021-02-03 17:32:03 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage0/woodhopper1": {
+    "criteria": {
+      "completedParent": "2021-01-14 11:04:01 -0500",
+      "hasRock": "2021-01-19 16:27:11 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/woodhopper2": {
+    "criteria": {
+      "completedParent": "2021-01-19 16:27:11 -0500",
+      "hasRock": "2021-01-19 20:38:46 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/lightwell": {
+    "criteria": {
+      "hasRock": "2021-01-29 21:44:42 -0500",
+      "completedParent": "2021-01-29 21:15:08 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:adventurer/give_me_that": {
+    "criteria": {
+      "talisman": "2021-01-26 12:44:23 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/betweenlands": {
+    "criteria": {
+      "entered_nether": "2021-01-26 12:53:05 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "scale": "2021-01-30 14:37:06 -0500",
+      "kill_mob": "2021-01-30 14:16:04 -0500",
+      "naga": "2021-01-30 14:37:06 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/projector": {
+    "criteria": {
+      "completedParent": "2021-02-01 11:20:48 -0500",
+      "hasRock": "2021-02-03 21:02:12 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/firepit": {
+    "criteria": {
+      "completedParent": "2021-01-19 15:30:24 -0500",
+      "hasRock": "2021-01-19 16:31:36 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/furnace": {
+    "criteria": {
+      "completedParent": "2021-01-23 21:20:16 -0500",
+      "crafted": "2021-01-23 21:22:40 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/netherbrick": {
+    "criteria": {
+      "hasRock": "2021-02-02 09:57:13 -0500",
+      "completedParent": "2021-02-02 09:55:24 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/enderman": {
+    "criteria": {
+      "completedParent": "2021-01-29 21:15:08 -0500",
+      "killed_spider3": "2021-01-29 21:15:08 -0500",
+      "killed_spider4": "2021-01-29 21:15:08 -0500",
+      "killed_spider5": "2021-01-29 21:15:08 -0500",
+      "killed_spider1": "2021-01-29 21:15:08 -0500",
+      "killed_spider2": "2021-01-29 21:15:08 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/aquamarine": {
+    "criteria": {
+      "hasRock": "2021-01-25 23:54:30 -0500",
+      "completedParent": "2021-01-25 23:14:30 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:fighter/chopping_boy": {
+    "criteria": {
+      "killed_a_mob_ancient": "2021-01-26 13:01:32 -0500",
+      "killed_a_mob_shockwave": "2021-01-26 13:01:32 -0500",
+      "killed_a_mob_octine": "2021-01-26 13:01:32 -0500",
+      "killed_a_mob_bone": "2021-01-26 13:01:32 -0500",
+      "killed_a_mob_weedwood": "2021-01-26 13:01:32 -0500",
+      "killed_a_mob_valonite": "2021-01-26 13:01:32 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:adventurer/big_wood": {
+    "criteria": {
+      "giant_tree": "2021-01-26 18:39:34 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/drawertable": {
+    "criteria": {
+      "completedParent": "2021-01-26 11:59:07 -0500",
+      "crafted": "2021-01-26 12:23:45 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage5/diamond": {
+    "criteria": {
+      "hasRock": "2021-02-01 22:16:49 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage0/saltflats": {
+    "criteria": {
+      "completedParent": "2021-01-19 16:31:36 -0500",
+      "hasRock5": "2021-01-19 20:57:59 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/sealantern": {
+    "criteria": {
+      "completedParent": "2021-01-26 11:59:07 -0500"
+    },
+    "done": false
+  },
+  "thebetweenlands:miner/advanced_darkness": {
+    "criteria": {
+      "caverns": "2021-01-26 13:02:44 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/bauxite": {
+    "criteria": {
+      "completedParent": "2021-02-01 11:07:05 -0500",
+      "hasRock": "2021-02-01 23:17:56 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/cart": {
+    "criteria": {
+      "completedParent": "2021-01-20 12:55:26 -0500",
+      "hasMobCart": "2021-01-20 13:02:55 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/journal": {
+    "criteria": {
+      "hasRock": "2021-01-26 11:52:47 -0500",
+      "completedParent": "2021-01-26 11:52:27 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/steel": {
+    "criteria": {
+      "hasRock": "2021-02-02 10:09:10 -0500",
+      "completedParent": "2021-02-01 16:47:05 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/iehammer": {
+    "criteria": {
+      "hasRock": "2021-01-24 10:04:42 -0500",
+      "completedParent": "2021-02-01 11:20:48 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/glass": {
+    "criteria": {
+      "hasRock": "2021-01-26 12:09:12 -0500",
+      "completedParent": "2021-01-26 11:59:07 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/modularmachinery": {
+    "criteria": {
+      "completedParent": "2021-02-03 19:01:22 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage2/depth": {
+    "criteria": {
+      "completedParent": "2021-02-01 12:08:48 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage3/oreprospector": {
+    "criteria": {
+      "hasRock": "2021-02-01 11:07:05 -0500",
+      "completedParent": "2021-02-01 10:58:44 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/tin": {
+    "criteria": {
+      "brokeLog1": "2021-01-23 22:45:11 -0500",
+      "brokeLog2": "2021-01-23 22:45:11 -0500",
+      "completedParent": "2021-01-23 21:23:18 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/bloodaltar": {
+    "criteria": {
+      "completedParent": "2021-01-24 10:03:38 -0500",
+      "hasRock": "2021-01-25 17:16:54 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/weaponize": {
+    "criteria": {
+      "hasRock": "2021-01-14 11:09:30 -0500",
+      "completedParent": "2021-01-14 10:41:25 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2021-01-31 16:50:49 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:miner/root": {
+    "criteria": {
+      "has_dank_world": "2021-01-26 12:53:09 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/gear": {
+    "criteria": {
+      "completedParent": "2021-01-20 12:55:26 -0500",
+      "hasRock": "2021-01-23 13:59:29 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/chest": {
+    "criteria": {
+      "completedParent": "2021-01-23 21:20:16 -0500",
+      "brokeLog": "2021-01-23 21:20:19 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/skywave": {
+    "criteria": {
+      "completedParent": "2021-01-29 21:15:08 -0500",
+      "hasRock": "2021-02-01 01:14:32 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:adventurer/root": {
+    "criteria": {
+      "talisman": "2021-01-26 12:38:28 -0500",
+      "in_bl": "2021-01-26 12:38:28 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/waterstrainer": {
+    "criteria": {
+      "completedParent": "2021-01-14 11:00:23 -0500",
+      "hasRock2": "2021-01-19 21:22:14 -0500",
+      "hasRock1": "2021-01-19 21:21:27 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/creosote": {
+    "criteria": {
+      "completedParent": "2021-02-01 11:20:48 -0500",
+      "hasRock": "2021-02-01 16:47:05 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/kiln": {
+    "criteria": {
+      "completedParent": "2021-01-14 11:00:23 -0500",
+      "hasRock": "2021-01-19 15:19:35 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/oreexcavation": {
+    "criteria": {
+      "completedParent": "2021-02-01 11:07:05 -0500",
+      "hasRock": "2021-02-02 12:05:34 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/carminitereactor": {
+    "criteria": {
+      "completedParent": "2021-01-30 13:59:35 -0500",
+      "hasRock": "2021-01-31 17:30:10 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:adventurer/cookie_crumbles": {
+    "criteria": {
+      "ruin": "2021-01-26 13:22:27 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:fighter/serious_business": {
+    "criteria": {
+      "octine_sword": "2021-01-26 12:58:04 -0500",
+      "weedwood_sword": "2021-01-26 12:58:04 -0500",
+      "bone_sword": "2021-01-26 12:58:04 -0500",
+      "valonite_sword": "2021-01-26 12:58:04 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "hydra": "2021-01-31 16:16:14 -0500",
+      "trophy": "2021-01-31 16:16:14 -0500",
+      "blood": "2021-01-31 16:16:14 -0500",
+      "stroganoff": "2021-01-31 15:55:59 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/naturescompass": {
+    "criteria": {
+      "completedParent": "2021-01-14 11:00:23 -0500",
+      "hasRock": "2021-01-19 15:07:20 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/lapis": {
+    "criteria": {
+      "completedParent": "2021-01-26 12:12:44 -0500",
+      "brokeLog": "2021-01-26 13:04:10 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/firstbreak": {
+    "criteria": {
+      "completedParent": "2021-01-14 10:41:25 -0500",
+      "brokeLog1": "2021-01-14 10:32:38 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/saddle": {
+    "criteria": {
+      "completedParent": "2021-01-19 21:18:57 -0500",
+      "hasRock": "2021-01-20 12:49:02 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/melterbase": {
+    "criteria": {
+      "completedParent": "2021-01-23 14:52:35 -0500",
+      "hasRock": "2021-01-23 16:27:16 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/weedwoodsword": {
+    "criteria": {
+      "hasRock": "2021-02-01 00:23:33 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/conveyorbelt": {
+    "criteria": {
+      "completedParent": "2021-02-02 15:41:30 -0500",
+      "hasRock": "2021-02-03 19:38:16 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/fluidbladder": {
+    "criteria": {
+      "completedParent": "2021-01-14 11:00:23 -0500",
+      "hasRock": "2021-01-19 20:36:05 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/buffalo": {
+    "criteria": {
+      "completedParent": "2021-01-20 15:25:20 -0500",
+      "hasRock": "2021-01-23 13:53:03 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/huntingdim": {
+    "criteria": {
+      "completedParent": "2021-01-23 21:16:36 -0500",
+      "hasRock": "2021-01-25 21:35:22 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/flamehopper": {
+    "criteria": {
+      "completedParent": "2021-01-19 20:38:46 -0500",
+      "hasRock": "2021-01-23 14:52:35 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/farmland": {
+    "criteria": {
+      "completedParent": "2021-01-19 15:43:21 -0500",
+      "traded": "2021-01-25 22:38:24 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/wire": {
+    "criteria": {
+      "completedParent": "2021-02-03 19:52:47 -0500",
+      "hasRock2": "2021-02-03 20:22:41 -0500",
+      "hasRock1": "2021-02-03 20:22:41 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:farmer/root": {
+    "criteria": {
+      "has_dank_world": "2021-01-26 12:53:09 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/workbench": {
+    "criteria": {
+      "completedParent": "2021-02-01 11:20:48 -0500",
+      "hasRock": "2021-02-02 15:41:30 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/fish": {
+    "criteria": {
+      "killed_fish3": "2021-01-23 22:34:59 -0500",
+      "killed_fish2": "2021-01-23 22:34:59 -0500",
+      "killed_fish": "2021-01-23 22:34:59 -0500",
+      "killed_fish4": "2021-01-23 22:34:59 -0500",
+      "completedParent": "2021-01-20 15:32:58 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/stopwatch": {
+    "criteria": {
+      "completedParent": "2021-02-01 12:08:48 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage3/drawercontroller": {
+    "criteria": {
+      "completedParent": "2021-02-02 15:41:30 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage2/tcontable1": {
+    "criteria": {
+      "hasRock": "2021-01-26 12:02:26 -0500",
+      "completedParent": "2021-01-26 11:59:07 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/tcontable2": {
+    "criteria": {
+      "completedParent": "2021-01-26 12:02:26 -0500",
+      "hasRock2": "2021-01-26 12:14:48 -0500",
+      "hasRock1": "2021-01-26 12:15:01 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_hydra": "2021-01-30 17:01:12 -0500",
+      "trophy_pedestal": "2021-01-31 16:24:35 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/tcontable3": {
+    "criteria": {
+      "hasRock": "2021-01-26 12:15:24 -0500",
+      "completedParent": "2021-01-26 12:15:01 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:survivalist/a_cure": {
+    "criteria": {
+      "have_sap": "2021-01-26 13:00:09 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/rails": {
+    "criteria": {
+      "completedParent": "2021-02-01 10:58:44 -0500",
+      "hasRock2": "2021-02-03 19:26:04 -0500",
+      "hasRock1": "2021-02-03 19:26:04 -0500",
+      "hasRock0": "2021-02-03 19:26:04 -0500",
+      "hasRock6": "2021-02-03 19:26:04 -0500",
+      "hasRock5": "2021-02-03 19:26:04 -0500",
+      "hasRock4": "2021-02-03 19:26:04 -0500",
+      "hasRock3": "2021-02-03 19:26:04 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:survivalist/you_are_what_you_eat": {
+    "criteria": {
+      "have_sap": "2021-01-26 18:45:44 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/netherexbiome": {
+    "criteria": {
+      "entered_forest": "2021-02-01 12:39:26 -0500",
+      "completedParent": "2021-02-01 12:39:19 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:farmer/mr_compost": {
+    "criteria": {
+      "use_compost": "2021-01-30 13:39:29 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/filteredhopper": {
+    "criteria": {
+      "hasRock": "2021-02-01 13:16:19 -0500",
+      "completedParent": "2021-02-01 12:39:19 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/redstone": {
+    "criteria": {
+      "hasRock": "2021-02-01 11:07:05 -0500",
+      "completedParent": "2021-02-01 11:07:05 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/fire": {
+    "criteria": {
+      "completedParent": "2021-01-14 10:41:25 -0500",
+      "hasRock": "2021-01-19 15:30:24 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:survivalist/pyromaniac": {
+    "criteria": {
+      "set_fire": "2021-01-27 13:43:05 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/wheel": {
+    "criteria": {
+      "hasRock": "2021-01-20 12:55:26 -0500",
+      "completedParent": "2021-01-20 12:49:02 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:craftsman/efficiency": {
+    "criteria": {
+      "dual_furnace": "2021-01-27 12:59:34 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/gearbox": {
+    "criteria": {
+      "hasRock": "2021-01-26 11:40:03 -0500",
+      "completedParent": "2021-01-26 10:55:03 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/hibachi": {
+    "criteria": {
+      "completedParent": "2021-02-01 13:16:19 -0500",
+      "hasRock": "2021-02-01 17:39:39 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/fertility": {
+    "criteria": {
+      "completedParent": "2021-01-20 15:25:20 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage2/extendedcraftingbasic": {
+    "criteria": {
+      "completedParent": "2021-01-26 18:00:51 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage0/spear": {
+    "criteria": {
+      "completedParent": "2021-01-14 11:09:30 -0500",
+      "hasRock": "2021-01-20 15:32:58 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/horsechopper": {
+    "criteria": {
+      "completedParent": "2021-01-19 21:31:01 -0500",
+      "hasRock": "2021-01-20 12:29:45 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/dowsingrod": {
+    "criteria": {
+      "completedParent": "2021-01-26 12:09:12 -0500",
+      "crafted": "2021-01-26 12:12:44 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/netherwart": {
+    "criteria": {
+      "hasRock": "2021-02-01 12:43:04 -0500",
+      "completedParent": "2021-02-01 12:39:26 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/mill": {
+    "criteria": {
+      "hasRock": "2021-01-20 13:12:31 -0500",
+      "completedParent": "2021-01-23 13:59:29 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/astable2": {
+    "criteria": {
+      "hasRock": "2021-01-29 23:28:50 -0500",
+      "completedParent": "2021-01-29 21:44:42 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/paper": {
+    "criteria": {
+      "hasRock": "2021-01-26 12:22:18 -0500",
+      "completedParent": "2021-01-26 11:59:07 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/handgrind": {
+    "criteria": {
+      "completedParent": "2021-01-14 11:00:23 -0500",
+      "hasRock": "2021-01-19 15:45:18 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/copper": {
+    "criteria": {
+      "brokeLog1": "2021-01-23 23:12:16 -0500",
+      "brokeLog2": "2021-01-23 23:12:16 -0500",
+      "completedParent": "2021-01-23 21:23:18 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/stonetools": {
+    "criteria": {
+      "completedParent": "2021-01-14 10:57:21 -0500",
+      "hasRock": "2021-01-19 16:21:16 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/woodbasin": {
+    "criteria": {
+      "hasRock": "2021-01-23 21:30:59 -0500",
+      "completedParent": "2021-01-23 21:16:37 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2021-01-30 14:00:43 -0500",
+      "make_portal": "2021-01-30 14:00:43 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2021-01-31 17:35:44 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/market": {
+    "criteria": {
+      "completedParent": "2021-01-26 18:15:57 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage1/plumbline": {
+    "criteria": {
+      "completedParent": "2021-01-23 21:20:16 -0500",
+      "crafted": "2021-01-23 22:00:45 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/prospector": {
+    "criteria": {
+      "completedParent": "2021-01-23 21:20:16 -0500",
+      "crafted": "2021-01-23 21:23:18 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "deer": "2021-01-30 14:16:04 -0500",
+      "hedge_spider": "2021-01-30 14:16:04 -0500",
+      "death_tome": "2021-01-30 14:16:04 -0500",
+      "lich_minion": "2021-01-30 14:16:04 -0500",
+      "skeleton_druid": "2021-01-30 14:16:04 -0500",
+      "kobold": "2021-01-30 14:16:04 -0500",
+      "slime_beetle": "2021-01-30 14:16:04 -0500",
+      "wild_boar": "2021-01-30 14:16:04 -0500",
+      "redcap_sapper": "2021-01-30 14:16:04 -0500",
+      "hydra": "2021-01-30 14:16:04 -0500",
+      "lich": "2021-01-30 14:16:04 -0500",
+      "unstable_ice_core": "2021-01-30 14:16:04 -0500",
+      "bunny": "2021-01-30 14:16:04 -0500",
+      "blockchain_goblin": "2021-01-30 14:16:04 -0500",
+      "swarm_spider": "2021-01-30 14:16:04 -0500",
+      "knight_phantom": "2021-01-30 14:16:04 -0500",
+      "adherent": "2021-01-30 14:16:04 -0500",
+      "redcap": "2021-01-30 14:16:04 -0500",
+      "troll": "2021-01-30 14:16:04 -0500",
+      "hostile_wolf": "2021-01-30 14:16:04 -0500",
+      "fire_beetle": "2021-01-30 14:16:04 -0500",
+      "mosquito_swarm": "2021-01-30 14:16:04 -0500",
+      "boggard": "2021-01-30 14:16:04 -0500",
+      "stable_ice_core": "2021-01-30 14:16:04 -0500",
+      "helmet_crab": "2021-01-30 14:16:04 -0500",
+      "minotaur": "2021-01-30 14:16:04 -0500",
+      "yeti_alpha": "2021-01-30 14:16:04 -0500",
+      "squirrel": "2021-01-30 14:16:04 -0500",
+      "wraith": "2021-01-30 14:16:04 -0500",
+      "snow_queen": "2021-01-30 14:16:04 -0500",
+      "tiny_bird": "2021-01-30 14:16:04 -0500",
+      "ur_ghast": "2021-01-30 14:16:04 -0500",
+      "yeti": "2021-01-30 14:16:04 -0500",
+      "naga": "2021-01-30 14:16:04 -0500",
+      "penguin": "2021-01-30 14:16:04 -0500",
+      "pinch_beetle": "2021-01-30 14:16:04 -0500",
+      "bighorn_sheep": "2021-01-30 14:16:04 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:survivalist/hardcore_muchies": {
+    "criteria": {
+      "have_sap": "2021-01-26 18:46:16 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/firstchest": {
+    "criteria": {
+      "hasRock": "2021-01-14 11:04:01 -0500",
+      "completedParent": "2021-01-14 11:00:23 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/nickel": {
+    "criteria": {
+      "completedParent": "2021-02-01 11:07:05 -0500",
+      "hasRock2": "2021-01-26 12:30:03 -0500",
+      "hasRock1": "2021-02-01 23:21:41 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/root": {
+    "criteria": {
+      "completedStage1": "2021-02-01 10:58:44 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/coal": {
+    "criteria": {
+      "hasRock": "2021-01-23 22:11:56 -0500",
+      "completedParent": "2021-01-23 21:23:18 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/tomahawk": {
+    "criteria": {
+      "hasRock": "2021-01-14 11:06:48 -0500",
+      "completedParent": "2021-01-14 11:09:30 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/iebook": {
+    "criteria": {
+      "hasRock": "2021-02-01 11:20:48 -0500",
+      "completedParent": "2021-02-01 10:58:44 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/mesh": {
+    "criteria": {
+      "hasRock": "2021-01-14 10:39:54 -0500",
+      "completedParent": "2021-01-14 10:34:10 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/mat": {
+    "criteria": {
+      "hasRock": "2021-01-19 21:09:50 -0500",
+      "completedParent": "2021-01-19 21:09:44 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/melter": {
+    "criteria": {
+      "completedParent": "2021-01-23 16:27:16 -0500",
+      "hasRock": "2021-01-23 21:16:36 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/bucket": {
+    "criteria": {
+      "hasRock": "2021-01-29 23:23:54 -0500",
+      "completedParent": "2021-01-29 23:20:26 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/alloykiln": {
+    "criteria": {
+      "completedParent": "2021-01-23 23:12:16 -0500",
+      "hasRock": "2021-01-24 10:03:38 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/conpaper": {
+    "criteria": {
+      "completedParent": "2021-01-26 11:59:07 -0500",
+      "hasRock": "2021-01-29 21:15:08 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/axle": {
+    "criteria": {
+      "hasRock": "2021-01-25 23:56:27 -0500",
+      "completedParent": "2021-01-25 23:31:21 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/platinum": {
+    "criteria": {
+      "completedParent": "2021-02-01 11:07:05 -0500",
+      "hasRock": "2021-02-02 11:57:24 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/buildcraft": {
+    "criteria": {
+      "hasRock": "2021-02-03 20:45:33 -0500",
+      "completedParent": "2021-02-03 19:01:22 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/fiber": {
+    "criteria": {
+      "hasRock": "2021-01-14 10:34:10 -0500",
+      "completedParent": "2021-01-14 10:29:52 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/root": {
+    "criteria": {
+      "completedStage1": "2021-01-26 11:59:07 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/extension": {
+    "criteria": {
+      "placedDirt": "2021-01-23 21:28:51 -0500",
+      "completedParent": "2021-01-23 21:26:53 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:adventurer/dank_world": {
+    "criteria": {
+      "in_bl": "2021-01-26 12:53:07 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:craftsman/getting_harder_wood": {
+    "criteria": {
+      "log_rubber": "2021-01-26 12:54:17 -0500",
+      "giant_root": "2021-01-26 12:54:17 -0500",
+      "log_sap": "2021-01-26 12:54:17 -0500",
+      "log_weedwood": "2021-01-26 12:54:17 -0500",
+      "log_hearthgrove": "2021-01-26 12:54:17 -0500",
+      "weedwood": "2021-01-26 12:54:17 -0500",
+      "log_nibbletwig": "2021-01-26 12:54:17 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:survivalist/say_nay_to_decay": {
+    "criteria": {
+      "have_petal": "2021-01-26 13:23:13 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/tchannel": {
+    "criteria": {
+      "crafted1": "2021-01-23 21:52:10 -0500",
+      "completedParent": "2021-01-23 21:16:37 -0500",
+      "crafted2": "2021-01-23 21:52:10 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/parrot": {
+    "criteria": {
+      "tamed_horse": "2021-01-25 17:32:27 -0500",
+      "completedParent": "2021-01-24 11:10:10 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/collectplank": {
+    "criteria": {
+      "completedParent": "2021-01-14 10:41:25 -0500",
+      "crafted": "2021-01-14 11:00:13 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/blackquartz": {
+    "criteria": {
+      "hasRock": "2021-01-25 23:31:21 -0500",
+      "completedParent": "2021-01-25 23:14:30 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/nuggetcast": {
+    "criteria": {
+      "completedParent": "2021-01-26 18:15:57 -0500",
+      "hasRock": "2021-01-29 23:26:26 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:fighter/root": {
+    "criteria": {
+      "has_dank_world": "2021-01-26 12:53:09 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/horsepower": {
+    "criteria": {
+      "hasRock": "2021-01-19 21:31:01 -0500",
+      "completedParent": "2021-01-19 21:18:57 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/atlas": {
+    "criteria": {
+      "book1": "2021-01-19 15:39:48 -0500",
+      "completedParent": "2021-01-19 15:43:21 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/statue": {
+    "criteria": {
+      "hasRock7": "2021-01-24 11:10:10 -0500",
+      "completedParent": "2021-01-24 10:56:21 -0500",
+      "hasRock2": "2021-01-24 11:10:10 -0500",
+      "hasRock1": "2021-01-24 11:10:10 -0500",
+      "hasRock6": "2021-01-24 11:10:10 -0500",
+      "hasRock5": "2021-01-24 11:10:10 -0500",
+      "hasRock4": "2021-01-24 11:10:10 -0500",
+      "hasRock3": "2021-01-24 11:10:10 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "tear": "2021-01-31 17:35:44 -0500",
+      "previous_progression": "2021-01-31 16:32:28 -0500",
+      "trophy": "2021-01-31 17:35:44 -0500",
+      "ghast": "2021-01-31 17:35:44 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/astable": {
+    "criteria": {
+      "hasRock": "2021-01-26 11:59:06 -0500",
+      "completedParent": "2021-01-26 11:52:47 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/weedwoodsticks": {
+    "criteria": {
+      "hasRock": "2021-01-26 12:57:38 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/chestupgrade": {
+    "criteria": {
+      "completedParent": "2021-01-14 11:04:01 -0500",
+      "hasRock": "2021-01-19 16:17:51 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/wool": {
+    "criteria": {
+      "hasRock": "2021-01-26 12:09:02 -0500",
+      "completedParent": "2021-01-26 11:59:07 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/amethyst": {
+    "criteria": {
+      "completedParent": "2021-02-01 12:39:19 -0500",
+      "hasRock2": "2021-02-02 12:47:59 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:fighter/sticky_situation": {
+    "criteria": {
+      "sludge": "2021-01-26 18:09:26 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/leather": {
+    "criteria": {
+      "hasRock": "2021-01-19 21:09:44 -0500",
+      "completedParent": "2021-01-19 20:36:05 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/bees": {
+    "criteria": {
+      "hasRock": "2021-01-23 22:26:24 -0500",
+      "completedParent": "2021-01-23 21:24:57 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:adventurer/tall_tough": {
+    "criteria": {
+      "ruin": "2021-01-26 13:04:18 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/naphtha": {
+    "criteria": {
+      "completedParent": "2021-02-03 21:48:10 -0500"
+    },
+    "done": false
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "map": "2021-01-30 16:42:35 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/crafting": {
+    "criteria": {
+      "completedParent": "2021-01-23 21:16:36 -0500",
+      "crafted": "2021-01-23 21:20:16 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/flintknapp": {
+    "criteria": {
+      "hasRock": "2021-01-14 10:40:03 -0500",
+      "completedParent": "2021-01-14 10:39:54 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/grill": {
+    "criteria": {
+      "hasRock": "2021-01-19 15:38:19 -0500",
+      "completedParent": "2021-01-19 16:31:36 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2021-01-31 16:16:14 -0500",
+      "ur_ghast": "2021-01-31 17:35:44 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage1/dung": {
+    "criteria": {
+      "completedParent": "2021-01-23 21:26:53 -0500",
+      "placedDirt2": "2021-01-23 21:40:18 -0500",
+      "placedDirt1": "2021-01-23 21:40:18 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:herbalist/root": {
+    "criteria": {
+      "has_dank_world": "2021-01-26 12:53:09 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/iron": {
+    "criteria": {
+      "completedParent": "2021-01-26 12:12:44 -0500",
+      "brokeLog": "2021-01-26 12:58:50 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/sampledrill": {
+    "criteria": {
+      "hasRock": "2021-02-03 19:21:17 -0500",
+      "completedParent": "2021-02-03 19:01:22 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/circuitboard": {
+    "criteria": {
+      "hasRock": "2021-02-03 19:01:22 -0500",
+      "completedParent": "2021-02-03 17:47:13 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/beneath": {
+    "criteria": {
+      "completedParent": "2021-01-24 11:10:10 -0500",
+      "entered_nether": "2021-01-25 23:14:30 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/bellows": {
+    "criteria": {
+      "hasRock": "2021-02-01 18:09:20 -0500",
+      "completedParent": "2021-02-01 17:39:39 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/aqueduct": {
+    "criteria": {
+      "placedDirt8": "2021-01-23 21:37:36 -0500",
+      "placedDirt9": "2021-01-23 21:37:36 -0500",
+      "placedDirt6": "2021-01-23 21:37:36 -0500",
+      "placedDirt7": "2021-01-23 21:37:36 -0500",
+      "placedDirt4": "2021-01-23 21:37:36 -0500",
+      "completedParent": "2021-01-23 21:16:36 -0500",
+      "placedDirt5": "2021-01-23 21:37:36 -0500",
+      "placedDirt2": "2021-01-23 21:37:36 -0500",
+      "placedDirt10": "2021-01-23 21:37:36 -0500",
+      "placedDirt3": "2021-01-23 21:37:36 -0500",
+      "placedDirt0": "2021-01-23 21:37:36 -0500",
+      "placedDirt1": "2021-01-23 21:37:36 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/soundmuffler": {
+    "criteria": {
+      "completedParent": "2021-02-01 11:07:05 -0500",
+      "hasRock": "2021-02-01 17:12:48 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/extendedcrafting1": {
+    "criteria": {
+      "completedParent": "2021-02-01 12:39:19 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage2/weird": {
+    "criteria": {
+      "completedParent": "2021-01-29 21:15:08 -0500",
+      "crafted": "2021-02-01 23:46:28 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/potash": {
+    "criteria": {
+      "hasRock": "2021-02-02 09:55:24 -0500",
+      "completedParent": "2021-02-01 18:09:20 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/stoneanvil": {
+    "criteria": {
+      "completedParent": "2021-01-23 21:16:36 -0500",
+      "crafted": "2021-01-23 22:57:04 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/abyssalgem": {
+    "criteria": {
+      "hasRock": "2021-01-23 14:44:35 -0500"
+    },
+    "done": false
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_meef": "2021-01-31 16:50:49 -0500",
+      "raw_venison": "2021-01-31 16:50:49 -0500",
+      "meef_stroganoff": "2021-01-31 16:50:49 -0500",
+      "maze_wafer": "2021-01-31 16:50:49 -0500",
+      "hydra_chop": "2021-01-31 16:50:49 -0500",
+      "cooked_meef": "2021-01-31 16:50:49 -0500",
+      "experiment_115": "2021-01-31 16:50:49 -0500",
+      "cooked_venison": "2021-01-31 16:50:49 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/wireshock": {
+    "criteria": {
+      "completedParent": "2021-02-03 20:22:41 -0500",
+      "hasRock2": "2021-02-03 20:26:08 -0500",
+      "hasRock1": "2021-02-03 20:26:08 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/workstump": {
+    "criteria": {
+      "completedParent": "2021-01-14 11:00:13 -0500",
+      "crafted": "2021-01-14 11:00:23 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/lowgradecharcoal": {
+    "criteria": {
+      "completedParent": "2021-01-19 15:19:35 -0500",
+      "hasRock": "2021-01-20 12:40:31 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/claybarrel": {
+    "criteria": {
+      "hasRock": "2021-01-23 21:26:53 -0500",
+      "completedParent": "2021-01-23 21:16:37 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/lead": {
+    "criteria": {
+      "hasRock": "2021-01-19 21:18:57 -0500",
+      "completedParent": "2021-01-19 21:09:44 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:craftsman/root": {
+    "criteria": {
+      "has_dank_world": "2021-01-26 12:53:09 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/firsttool": {
+    "criteria": {
+      "hasRock": "2021-01-14 10:41:25 -0500",
+      "completedParent": "2021-01-14 10:29:52 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/vacuumtube": {
+    "criteria": {
+      "completedParent": "2021-02-02 15:41:30 -0500",
+      "hasRock": "2021-02-03 17:47:13 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/compass": {
+    "criteria": {
+      "completedParent": "2021-01-29 23:20:26 -0500",
+      "hasRock": "2021-02-01 12:08:48 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2021-01-31 16:24:35 -0500",
+      "knight": "2021-01-31 16:32:28 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/gold": {
+    "criteria": {
+      "completedParent": "2021-01-26 12:12:44 -0500",
+      "brokeLog": "2021-01-26 18:15:57 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/wateringcan": {
+    "criteria": {
+      "completedParent": "2021-01-29 23:07:15 -0500",
+      "hasRock": "2021-02-01 16:49:01 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "meef": "2021-01-31 15:55:59 -0500",
+      "kill_lich": "2021-01-30 17:01:12 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/tipi": {
+    "criteria": {
+      "completedParent": "2021-01-19 21:09:44 -0500",
+      "hasRock": "2021-01-20 12:51:15 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:adventurer/pothead": {
+    "criteria": {
+      "pot9": "2021-01-26 13:11:29 -0500",
+      "pot5": "2021-01-26 13:11:29 -0500",
+      "pot6": "2021-01-26 13:11:29 -0500",
+      "pot7": "2021-01-26 13:11:29 -0500",
+      "pot8": "2021-01-26 13:11:29 -0500",
+      "pot1": "2021-01-26 13:11:29 -0500",
+      "pot2": "2021-01-26 13:11:29 -0500",
+      "pot3": "2021-01-26 13:11:29 -0500",
+      "pot10": "2021-01-26 13:11:29 -0500",
+      "pot4": "2021-01-26 13:11:29 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:craftsman/all_over_again": {
+    "criteria": {
+      "weedwood_workbench": "2021-01-27 12:57:47 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/hoe": {
+    "criteria": {
+      "hasRock15": "2021-01-23 21:24:57 -0500",
+      "hasRock14": "2021-01-23 21:24:57 -0500",
+      "hasRock13": "2021-01-23 21:24:57 -0500",
+      "hasRock12": "2021-01-23 21:24:57 -0500",
+      "hasRock19": "2021-01-23 21:24:57 -0500",
+      "hasRock18": "2021-01-23 21:24:57 -0500",
+      "hasRock17": "2021-01-23 21:24:57 -0500",
+      "completedParent": "2021-01-23 21:16:37 -0500",
+      "hasRock16": "2021-01-23 21:24:57 -0500",
+      "hasRock9": "2021-01-23 21:24:57 -0500",
+      "hasRock8": "2021-01-23 21:24:57 -0500",
+      "hasRock7": "2021-01-23 21:24:57 -0500",
+      "hasRock2": "2021-01-23 21:24:57 -0500",
+      "hasRock1": "2021-01-23 21:24:57 -0500",
+      "hasRock0": "2021-01-23 21:24:57 -0500",
+      "hasRock6": "2021-01-23 21:24:57 -0500",
+      "hasRock22": "2021-01-23 21:24:57 -0500",
+      "hasRock5": "2021-01-23 21:24:57 -0500",
+      "hasRock21": "2021-01-23 21:24:57 -0500",
+      "hasRock4": "2021-01-23 21:24:57 -0500",
+      "hasRock20": "2021-01-23 21:24:57 -0500",
+      "hasRock3": "2021-01-23 21:24:57 -0500",
+      "hasRock26": "2021-01-23 21:24:57 -0500",
+      "hasRock25": "2021-01-23 21:24:57 -0500",
+      "hasRock24": "2021-01-23 21:24:57 -0500",
+      "hasRock23": "2021-01-23 21:24:57 -0500",
+      "hasRock29": "2021-01-23 21:24:57 -0500",
+      "hasRock28": "2021-01-23 21:24:57 -0500",
+      "hasRock27": "2021-01-23 21:24:57 -0500",
+      "hasRock11": "2021-01-23 21:24:57 -0500",
+      "hasRock10": "2021-01-23 21:24:57 -0500",
+      "hasRock30": "2021-01-23 21:24:57 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/stepup": {
+    "criteria": {
+      "completedParent": "2021-01-25 17:16:54 -0500",
+      "hasRock": "2021-01-30 13:06:04 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/upgrade": {
+    "criteria": {
+      "hasRock": "2021-01-14 10:57:21 -0500",
+      "completedParent": "2021-01-14 10:41:25 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/charcoal": {
+    "criteria": {
+      "hasRock": "2021-01-20 12:44:47 -0500",
+      "completedParent": "2021-01-20 12:29:45 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/baykok": {
+    "criteria": {
+      "completedParent": "2021-01-23 13:53:03 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage2/controller": {
+    "criteria": {
+      "placedDirt": "2021-01-29 23:20:26 -0500",
+      "completedParent": "2021-01-26 12:53:05 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/parchment": {
+    "criteria": {
+      "hasRock": "2021-01-26 11:52:27 -0500",
+      "completedParent": "2021-01-25 23:54:30 -0500",
+      "hasCraftedRock": "2021-01-26 11:52:27 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/resonatingwand": {
+    "criteria": {
+      "completedParent": "2021-01-29 21:15:08 -0500",
+      "crafted": "2021-01-29 21:44:31 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/smeltertank": {
+    "criteria": {
+      "completedParent": "2021-01-26 12:58:50 -0500",
+      "hasRock2": "2021-01-29 23:07:15 -0500",
+      "hasRock1": "2021-01-29 23:07:15 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:miner/new_shinies": {
+    "criteria": {
+      "syrmorite": "2021-01-26 13:02:44 -0500",
+      "octine": "2021-01-26 13:02:44 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/workblade": {
+    "criteria": {
+      "completedParent": "2021-01-14 10:57:21 -0500",
+      "hasRock": "2021-01-19 15:43:21 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/abyssalbiome": {
+    "criteria": {
+      "completedParent": "2021-01-19 15:07:20 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage3/waterwheel": {
+    "criteria": {
+      "completedParent": "2021-02-01 16:47:05 -0500",
+      "hasRock": "2021-02-03 20:00:48 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2021-01-30 16:35:44 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/silverlead": {
+    "criteria": {
+      "completedParent": "2021-02-01 11:07:05 -0500",
+      "hasRock2": "2021-02-01 17:34:39 -0500",
+      "hasRock1": "2021-02-01 17:34:39 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/necro": {
+    "criteria": {
+      "completedParent": "2021-01-24 10:23:33 -0500",
+      "crafted": "2021-01-24 10:56:21 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/piston": {
+    "criteria": {
+      "hasRock": "2021-01-30 14:45:24 -0500",
+      "completedParent": "2021-01-30 13:59:35 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2021-01-30 17:01:12 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage1/bronze": {
+    "criteria": {
+      "hasRock": "2021-01-24 10:23:33 -0500",
+      "completedParent": "2021-01-24 10:03:38 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/turntable": {
+    "criteria": {
+      "completedParent": "2021-01-26 11:40:03 -0500",
+      "hasRock": "2021-01-29 22:27:45 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/windmill": {
+    "criteria": {
+      "completedParent": "2021-02-01 16:47:05 -0500",
+      "hasRock": "2021-02-03 19:52:47 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:fighter/hag_hater": {
+    "criteria": {
+      "swamp_hag": "2021-01-27 13:30:28 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/nether": {
+    "criteria": {
+      "entered_nether": "2021-02-01 12:39:19 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/stevescartsassembler": {
+    "criteria": {
+      "completedParent": "2021-02-01 10:58:44 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage3/crudeoil": {
+    "criteria": {
+      "hasRock": "2021-02-03 21:48:10 -0500",
+      "completedParent": "2021-02-03 19:21:17 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/pedestal": {
+    "criteria": {
+      "completedParent": "2021-01-24 11:10:10 -0500",
+      "hasRock": "2021-01-24 12:10:15 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/rockcrystal": {
+    "criteria": {
+      "hasRock": "2021-01-26 19:23:32 -0500",
+      "completedParent": "2021-01-26 18:00:51 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "lifedrain_scepter": "2021-01-30 17:01:12 -0500",
+      "twilight_scepter": "2021-01-30 17:01:12 -0500",
+      "shield_scepter": "2021-01-30 17:01:12 -0500",
+      "kill_lich": "2021-01-30 17:01:12 -0500",
+      "trophy": "2021-01-30 17:01:12 -0500",
+      "zombie_scepter": "2021-01-30 17:01:12 -0500",
+      "kill_naga": "2021-01-30 14:37:06 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/waterwheel": {
+    "criteria": {
+      "hasRock": "2021-01-26 10:55:03 -0500",
+      "completedParent": "2021-01-25 23:56:27 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/root": {
+    "criteria": {
+      "killedByEntity": "2021-01-23 22:34:59 -0500",
+      "enterDimension": "2021-01-23 22:34:59 -0500",
+      "killEntity": "2021-01-23 22:34:59 -0500",
+      "location": "2021-01-14 10:29:52 -0500",
+      "breakBlock": "2021-01-23 22:34:59 -0500",
+      "craftItem": "2021-01-23 22:34:59 -0500",
+      "inventoryChange": "2021-01-23 22:34:59 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage1/leafbed": {
+    "criteria": {
+      "completedParent": "2021-01-23 21:20:16 -0500",
+      "hasRock": "2021-01-26 10:12:14 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage3/bonehoe": {
+    "criteria": {
+      "completedParent": "2021-02-01 12:43:04 -0500"
+    },
+    "done": false
+  },
+  "triumph:stage3/blazerod": {
+    "criteria": {
+      "hasRock": "2021-02-01 12:39:19 -0500",
+      "completedParent": "2021-02-01 12:39:19 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/stevescarts": {
+    "criteria": {
+      "completedParent": "2021-01-30 14:45:24 -0500",
+      "hasRock": "2021-02-01 10:58:44 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/starpowder": {
+    "criteria": {
+      "completedParent": "2021-01-26 12:12:44 -0500",
+      "hasRock": "2021-01-26 18:00:51 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage0/woodenbarrel": {
+    "criteria": {
+      "completedParent": "2021-01-19 20:36:05 -0500",
+      "hasRock1": "2021-01-19 20:55:36 -0500"
+    },
+    "done": true
+  },
+  "thebetweenlands:adventurer/ruined_it": {
+    "criteria": {
+      "shack": "2021-01-26 18:33:17 -0500",
+      "ruin": "2021-01-26 18:33:17 -0500"
+    },
+    "done": true
+  },
+  "triumph:stage2/twilight": {
+    "criteria": {
+      "completedParent": "2021-01-29 23:28:50 -0500",
+      "hasRock": "2021-01-30 13:59:35 -0500"
+    },
+    "done": true
+  }
+}
